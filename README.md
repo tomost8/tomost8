@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amazing-soft-dev">
+  <a href="https://github.com/tomost8">
     <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
@@ -68,13 +68,13 @@
 ---
 
 ### 📊 Activity Graph
-![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=amazing-soft-dev&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=tomost8&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/amazing-soft-dev">Amazing</a>
+  Made with ❤️ by <a href="https://github.com/tomost8">Amazing</a>
   <img align="right" alt="GIF" src="./cat-typing.gif" width="50px"/>
   <img align="left" alt="GIF" src="./cat-typing.gif" width="50px"/>
 </p>
