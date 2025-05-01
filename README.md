@@ -75,6 +75,4 @@
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/tomost8">Amazing</a>
-  <img align="right" alt="GIF" src="./cat-typing.gif" width="50px"/>
-  <img align="left" alt="GIF" src="./cat-typing.gif" width="50px"/>
 </p>
