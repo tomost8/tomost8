@@ -79,7 +79,8 @@ const stack = {
   <img src="assets/Ubuntu.svg" height="40" alt="Ubuntu" />&nbsp;&nbsp;
   <img src="assets/linux.png" height="40" alt="Linux" />
   <br><br>
-  <img src="assets/databases.png" height="40" alt="" />&nbsp;&nbsp;&nbsp;<b>Databases:</b>&nbsp;&nbsp;&nbsp;
+  <b>Databases:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/databases.png" height="40" alt="" />&nbsp;&nbsp;&nbsp;
   <img src="assets/mysql.png" height="40" alt="MySQL" />
 </p>
 
