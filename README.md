@@ -1,78 +1,71 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<h1 align="center">🌊 Navigating the Full-Stack Seas</h1>
-<h3 align="center">Senior Software Engineer | Full-Stack Maestro | Cloud Native Explorer</h3>
+<h1 align="center">Your Name</h1>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
- 🚀 Passionate about transforming ideas into scalable software solutions. Over 10 years of hands-on experience building modern web apps, architecting backend services, and deploying secure, high-performance applications to the cloud.
+  Full-stack systems: APIs, real-time UI, and cloud deployments.
 </p>
 
 <p align="center">
-  <a href="https://github.com/tomost8">
-    <img src="https://komarev.com/ghpvc/?username=tomost8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <a href="https://github.com/tomost8">github.com/tomost8</a>
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 0px" />
-</div>
+### About
 
----
+- 10+ years building web apps, backend services, and cloud deployments
+- Microservices, real-time systems, and dashboards
+- B.S. in Computer Science
+- Mentoring junior engineers
 
-<img align="right" alt="GIF" src="./techstack.gif" width="360px" margin-left="15px"/>
+### Now
 
-### 🧐 More About Me:
+- Building microservices, real-time systems, and dashboards
+- Depth in TypeScript, React, Node.js, and cloud deployment
+- Ask me about system design, ASP.NET Core, Django, and mentoring
 
-- 💼 Senior Software Engineer (Full Stack Engineer)
-- 🔧 Tech I love: Node.js • ASP.NET Core • Django • Ruby on Rails • React • TypeScript • AWS • Azure
-- 📚 B.S. in Computer Science
-- 💡 Building microservices, real-time systems, dashboards, and pixel-perfect UIs
-- 🎯 Passionate about creating scalable, high-performance systems
-- 🚀 Experienced in delivering end-to-end solutions from ideation to production
-- 🧑‍🏫 Mentoring junior engineers and fostering collaborative environments
-- ⚙️ Focused on optimizing performance and user experience
-- 🌱 Always learning and adapting to new technologies in the fast-evolving tech landscape
+### Stack
 
----
-
-### 🖥️ Languages & Frameworks & Tools
-
-![Tech Toolbox](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,redux,ts,js,d3,threejs,tailwind,bootstrap,mui,nodejs,express,django,flask,fastapi,php,spring,java,python,ruby,postgresql,mongodb,mysql,redis,sqlite,aws,azure,gcp,docker,kubernetes,vercel,netlify,cloudflare,jest,cypress,figma,postman,git,vscode,github,nginx)
-
----
-
-### 🏆 GitHub Trophies
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=tomost8&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
----
-
-### 📊 Activity Graph
-![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=tomost8&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
----
+```javascript
+const stack = {
+  daily: ["TypeScript", "JavaScript", "React", "Node.js", "Python", "C#"],
+  frameworks: ["ASP.NET Core", "Django", "Ruby on Rails"],
+  platform: ["AWS", "Azure", "Docker", "Kubernetes", "MySQL", "GraphQL", "Jest"],
+};
+```
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/tomost8">Amazing</a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,cs,dotnet,django,rails,aws,azure,docker,kubernetes,mysql,graphql,jest&perline=8" alt="TypeScript, JavaScript, React, Node.js, Python, C#, ASP.NET Core, Django, Ruby on Rails, AWS, Azure, Docker, Kubernetes, MySQL, GraphQL, Jest" />
 </p>
+
+### Selected work
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tomost8/Thoughtful-AI-assessment"><b>Thoughtful-AI-assessment</b></a><br />
+      Python
+    </td>
+    <td>
+      <a href="https://github.com/tomost8/developer-portfolio"><b>developer-portfolio</b></a><br />
+      JavaScript
+    </td>
+  </tr>
+</table>
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomost8&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=E6EDF3&ring_color=7F3FBF" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomost8&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=E6EDF3" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomost8&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C4B5FD&line=C4B5FD&point=C4B5FD&area_color=7F3FBF&title_color=7F3FBF&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+### Collaboration
+
+Open to full-stack builds and mentoring.
+
+[github.com/tomost8](https://github.com/tomost8)
+
+<p align="center">Senior Software Engineer</p>
