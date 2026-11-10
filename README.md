@@ -1,3 +1,5 @@
+<img src="assets/mygif2.gif" width="350" align="right" alt="Profile mascot" />
+
 <h1 align="center">Your Name</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
@@ -32,9 +34,21 @@ const stack = {
 };
 ```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,cs,dotnet,django,rails,aws,azure,docker,kubernetes,mysql,graphql,jest&perline=8" alt="TypeScript, JavaScript, React, Node.js, Python, C#, ASP.NET Core, Django, Ruby on Rails, AWS, Azure, Docker, Kubernetes, MySQL, GraphQL, Jest" />
-</p>
+**Languages:**
+
+![Languages](https://skillicons.dev/icons?i=ts,js,python,cs)
+
+**Libraries & Frameworks:**
+
+![Libraries and frameworks](https://skillicons.dev/icons?i=react,nodejs,dotnet,django,rails)
+
+**Tools & Platforms:**
+
+![Tools and platforms](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,graphql,jest,git)
+
+**Databases:**
+
+![Databases](https://skillicons.dev/icons?i=mysql)
 
 ### Selected work
 
@@ -54,13 +68,59 @@ const stack = {
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomost8&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=E6EDF3&ring_color=7F3FBF" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomost8&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=E6EDF3" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=tomost8&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7F3FBF&sideLabels=7F3FBF&dates=C4B5FD" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomost8&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C4B5FD&line=C4B5FD&point=C4B5FD&area_color=7F3FBF&title_color=7F3FBF&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomost8&theme=github_dark&bg_color=0D1117&title_color=7F3FBF&text_color=E6EDF3&icon_color=7F3FBF&hide_border=true" width="32%" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomost8&theme=github_dark&bg_color=0D1117&title_color=7F3FBF&text_color=E6EDF3&icon_color=7F3FBF&hide_border=true" width="32%" alt="Top languages by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomost8&theme=github_dark&bg_color=0D1117&title_color=7F3FBF&text_color=E6EDF3&icon_color=7F3FBF&hide_border=true" width="32%" alt="Commits by hour" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tomost8/tomost8/main/github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+### Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=ff79c6&authorColor=E6EDF3&backgroundColor=0D1117&symbolColor=7F3FBF" alt="Random dev quote" />
+</p>
+
+### Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tomost8/tomost8/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+</p>
+
+<div align="center">
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
+@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
+@@   ❮/ \`-'/ \❯          of new habit!                @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</div>
+
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right" alt="" />
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40" alt="" />
 
 ### Collaboration
 
