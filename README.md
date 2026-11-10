@@ -1,5 +1,3 @@
-<img src="assets/mygif2.gif" width="350" align="right" alt="Profile mascot" />
-
 <h1 align="center">tomost8 👋</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
@@ -10,6 +8,8 @@
 <p align="center">
   <a href="https://github.com/tomost8">github.com/tomost8</a>
 </p>
+
+<img src="assets/mygif2.gif" width="350" align="right" alt="Profile mascot" />
 
 ### About
 
@@ -34,21 +34,54 @@ const stack = {
 };
 ```
 
-**Languages:**
+**Tech Stack:**
 
-![Languages](https://skillicons.dev/icons?i=ts,js,python,cs)
-
-**Libraries & Frameworks:**
-
-![Libraries and frameworks](https://skillicons.dev/icons?i=react,nodejs,dotnet,django,rails)
-
-**Tools & Platforms:**
-
-![Tools and platforms](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,graphql,jest,git)
-
-**Databases:**
-
-![Databases](https://skillicons.dev/icons?i=mysql)
+<p>
+  <b>Languages:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/c.png" height="40" alt="C" />&nbsp;&nbsp;
+  <img src="assets/c++.png" height="40" alt="C++" />&nbsp;&nbsp;
+  <img src="assets/html.png" height="40" alt="HTML" />&nbsp;&nbsp;
+  <img src="assets/css.png" height="40" alt="CSS" />&nbsp;&nbsp;
+  <img src="assets/javascript.png" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="assets/java.png" height="40" alt="Java" />&nbsp;&nbsp;
+  <img src="assets/python.png" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="assets/dart.png" height="40" alt="Dart" />
+  <br><br>
+  <b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/react.png" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="assets/springboot.png" height="40" alt="Spring Boot" />&nbsp;&nbsp;
+  <img src="assets/flutter.png" height="40" alt="Flutter" />&nbsp;&nbsp;
+  <img src="assets/numpy.png" height="40" alt="NumPy" />&nbsp;&nbsp;
+  <img src="assets/keras.png" height="40" alt="Keras" />&nbsp;&nbsp;
+  <img src="assets/tensorflow.png" height="40" alt="TensorFlow" />&nbsp;&nbsp;
+  <img src="assets/pandas.png" height="40" alt="pandas" />&nbsp;&nbsp;
+  <img src="assets/pytorch.png" height="40" alt="PyTorch" />&nbsp;&nbsp;
+  <img src="assets/scikit-learn.png" height="40" alt="scikit-learn" />&nbsp;&nbsp;
+  <img src="assets/matplotlib.png" height="40" alt="Matplotlib" />
+  <br><br>
+  <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/git.png" height="40" alt="Git" />&nbsp;&nbsp;
+  <img src="assets/githubicon.png" height="40" alt="GitHub" />&nbsp;&nbsp;
+  <img src="assets/CLion.png" height="40" alt="CLion" />&nbsp;&nbsp;
+  <img src="assets/IntelliJIDEA.png" height="40" alt="IntelliJ IDEA" />&nbsp;&nbsp;
+  <img src="assets/PyCharm.png" height="40" alt="PyCharm" />&nbsp;&nbsp;
+  <img src="assets/androidstudio.png" height="40" alt="Android Studio" />&nbsp;&nbsp;
+  <img src="assets/antigravity.png" height="40" alt="Antigravity" />&nbsp;&nbsp;
+  <img src="assets/word.png" height="40" alt="Word" />&nbsp;&nbsp;
+  <img src="assets/excel.png" height="40" alt="Excel" />&nbsp;&nbsp;
+  <img src="assets/powerpoint.png" height="40" alt="PowerPoint" />&nbsp;&nbsp;
+  <img src="assets/vsCode.png" height="40" alt="VS Code" />&nbsp;&nbsp;
+  <img src="assets/copilot.png" height="40" alt="Copilot" />&nbsp;&nbsp;
+  <img src="assets/jupyter.png" height="40" alt="Jupyter" />&nbsp;&nbsp;
+  <img src="assets/colab.png" height="40" alt="Colab" />&nbsp;&nbsp;
+  <img src="assets/Postman.svg" height="40" alt="Postman" />&nbsp;&nbsp;
+  <img src="assets/512x512.svg" height="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="assets/Ubuntu.svg" height="40" alt="Ubuntu" />&nbsp;&nbsp;
+  <img src="assets/linux.png" height="40" alt="Linux" />
+  <br><br>
+  <img src="assets/databases.png" height="40" alt="" />&nbsp;&nbsp;&nbsp;<b>Databases:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/mysql.png" height="40" alt="MySQL" />
+</p>
 
 ### Selected work
 
