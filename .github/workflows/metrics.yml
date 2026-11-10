@@ -18,3 +18,7 @@ jobs:
           committer_branch: main
           user: tomost8
           filename: github-metrics.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
