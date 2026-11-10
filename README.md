@@ -1,6 +1,6 @@
 <img src="assets/mygif2.gif" width="350" align="right" alt="Profile mascot" />
 
-<h1 align="center">Your Name</h1>
+<h1 align="center">tomost8 👋</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
