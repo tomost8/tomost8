@@ -153,9 +153,6 @@ const stack = {
 
 </div>
 
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right" alt="" />
-<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40" alt="" />
-
 ### Collaboration
 
 Open to full-stack builds and mentoring.
