@@ -9,7 +9,7 @@
   <a href="https://github.com/tomost8">github.com/tomost8</a>
 </p>
 
-<img src="assets/mygif2.gif" width="350" align="right" alt="Profile mascot" />
+<img src="assets/Confident Sunglasses Power-Up Sequence.gif" width="350" align="right" alt="Profile mascot" />
 
 ### About
 
